@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nasty23-star/pet-futurama/static/css/main.35fe5d91.chunk.css",
+    "main.js": "/nasty23-star/pet-futurama/static/js/main.1abe576f.chunk.js",
+    "main.js.map": "/nasty23-star/pet-futurama/static/js/main.1abe576f.chunk.js.map",
+    "runtime-main.js": "/nasty23-star/pet-futurama/static/js/runtime-main.2d7753de.js",
+    "runtime-main.js.map": "/nasty23-star/pet-futurama/static/js/runtime-main.2d7753de.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/nasty23-star/pet-futurama/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fa368296.chunk.js": "/nasty23-star/pet-futurama/static/js/2.fa368296.chunk.js",
+    "static/js/2.fa368296.chunk.js.map": "/nasty23-star/pet-futurama/static/js/2.fa368296.chunk.js.map",
+    "index.html": "/nasty23-star/pet-futurama/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/nasty23-star/pet-futurama/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.35fe5d91.chunk.css.map": "/nasty23-star/pet-futurama/static/css/main.35fe5d91.chunk.css.map",
+    "static/js/2.fa368296.chunk.js.LICENSE.txt": "/nasty23-star/pet-futurama/static/js/2.fa368296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d7753de.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fa368296.chunk.js",
+    "static/css/main.35fe5d91.chunk.css",
+    "static/js/main.1abe576f.chunk.js"
+  ]
+}
